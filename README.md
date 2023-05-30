@@ -11,4 +11,5 @@
   # savePath:null이면 scss파일과 같은 위치에 style.css가 생김 
 ![image](https://github.com/hani10004/sass/assets/129706997/7ad0fe93-936c-4c24-9a59-dc3c6ec9eafd)
 
+# '~'은 style.scss를 의미, '/'는 style.scss가 있는 폴더
 ![image](https://github.com/hani10004/sass/assets/129706997/e7165610-cfa3-4c83-ad58-490d379ddca8)
