@@ -23,7 +23,6 @@
 ![image](https://github.com/hani10004/sass/assets/129706997/5d81e5db-d5b3-48d3-9afd-795d12ff9f2f)
 ---------------
 # 변수만들기 : $로 시작(영문, 숫자, -,_)만 사용가능 
-## __
 ![image](https://github.com/hani10004/sass/assets/129706997/cc652587-a5cf-42f9-8011-5cad18cdb40d)
 ![image](https://github.com/hani10004/sass/assets/129706997/b9421058-4f7f-4fbd-a92a-a8857060850e)
 --------------
@@ -31,5 +30,5 @@
   * Partials 의 파일명은 _ 로 시작하며
   * 불러들일때는 @import '파일명' 이때 파일명에 _ 는 포함시키지 않고, 확장명도 포함시키지 않는다.
   * Scc는 _ 로 시작하는 파일은 컴파일 하지 않는다 
-
+--------------
 
