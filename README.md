@@ -15,15 +15,18 @@
 ---------------
  # scss파일이 있는 폴더의 상위요소에 생성 
 ![image](https://github.com/hani10004/sass/assets/129706997/64f1254e-01b7-4125-a9fb-ccfcc6c9a421)
----------------
+
+--------------
 # 주석처리방법 
 ## // : 라인주석처리는 css로 컴파일 되지 않는다
 ##  /* */ : 블록 주석처리는 css로 컴파일 됨 
 ![image](https://github.com/hani10004/sass/assets/129706997/5d81e5db-d5b3-48d3-9afd-795d12ff9f2f)
----------------
+
+--------------
 # 변수만들기 : $로 시작(영문, 숫자, -,_)만 사용가능 
 ![image](https://github.com/hani10004/sass/assets/129706997/cc652587-a5cf-42f9-8011-5cad18cdb40d)
 ![image](https://github.com/hani10004/sass/assets/129706997/b9421058-4f7f-4fbd-a92a-a8857060850e)
+
 --------------
 # Partials
   * Partials 의 파일명은 _ 로 시작하며
@@ -32,5 +35,7 @@
   * ![image](https://github.com/hani10004/sass/assets/129706997/ebe203af-f407-4da9-ad71-dc4a24d64b5e)
 
 --------------
-# @use
+# @use --> 변수이름이 같을 때 에러발생, @use를 사용할때는 앞에 파일명을 추가해서 ###"파일명.변수명"
 ![image](https://github.com/hani10004/sass/assets/129706997/400d7a94-0d7e-45f6-a330-71f16b78b1f2)
+
+--------------
