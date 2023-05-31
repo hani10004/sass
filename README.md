@@ -55,9 +55,9 @@
 # @forward는 각각의 파셜들을 하나로 묶어줌 style.scss에서는 _index.scss 를 호출하여 사용함
 ![image](https://github.com/hani10004/sass/assets/129706997/6cc143e2-846e-4632-91d1-2f59364b6db4)
 
-
 --------------
-#
+# 💈: 와일드카드를 붙이면 이름을 생략할 수 있음 
+![image](https://github.com/hani10004/sass/assets/129706997/76ae8c83-ec38-4508-bf9e-ca61c7f4faaa)
 
 --------------
 ### 참고 -- https://github.com/understanding963852/sass/blob/main/README.md
