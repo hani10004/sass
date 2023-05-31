@@ -1,18 +1,23 @@
  # sass 사용 거의 안함, scss를 사용 (사스라고 읽음)
 ![image](https://github.com/hani10004/sass/assets/129706997/b6f60a48-c329-4e2f-a30a-9caaf28dbab3)
----------------
+
+--------------
  # scss 컴파일 
 ![image](https://github.com/hani10004/sass/assets/129706997/c870b8e4-690a-4e02-a5aa-4b72d81b88c9)
----------------
+
+--------------
  # css 위치변경 
 ![image](https://github.com/hani10004/sass/assets/129706997/da8154b0-2b8b-4138-9f49-843f31f038c5)
----------------
+
+--------------
   # savePath:null이면 scss파일과 같은 위치에 style.css가 생김 
 ![image](https://github.com/hani10004/sass/assets/129706997/7ad0fe93-936c-4c24-9a59-dc3c6ec9eafd)
----------------
+
+--------------
 # '~'은 style.scss를 의미, '/'는 style.scss가 있는 폴더
 ![image](https://github.com/hani10004/sass/assets/129706997/e7165610-cfa3-4c83-ad58-490d379ddca8)
----------------
+
+--------------
  # scss파일이 있는 폴더의 상위요소에 생성 
 ![image](https://github.com/hani10004/sass/assets/129706997/64f1254e-01b7-4125-a9fb-ccfcc6c9a421)
 
@@ -35,7 +40,11 @@
   * ![image](https://github.com/hani10004/sass/assets/129706997/ebe203af-f407-4da9-ad71-dc4a24d64b5e)
 
 --------------
+# @import --> 변수가 중복될때는 아래의것이 적용된다
+![image](https://github.com/hani10004/sass/assets/129706997/e8208bdd-8936-4a00-a32c-adac296f54c6)
+
+--------------
 # @use --> 변수이름이 같을 때 에러발생, @use를 사용할때는 앞에 파일명을 추가해서 "파일명.변수명"
-![image](https://github.com/hani10004/sass/assets/129706997/400d7a94-0d7e-45f6-a330-71f16b78b1f2)
+![image](https://github.com/hani10004/sass/assets/129706997/3f7be0f9-c1e7-4eb7-b993-3e58dd5ed0ab)
 
 --------------
