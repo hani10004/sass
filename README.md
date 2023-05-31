@@ -48,10 +48,13 @@
 ![image](https://github.com/hani10004/sass/assets/129706997/3f7be0f9-c1e7-4eb7-b993-3e58dd5ed0ab)
 
 --------------
-#
+# as 뒤에 별명을 붙여서 사용할 수 있다
+![image](https://github.com/hani10004/sass/assets/129706997/c2fb8114-fe96-4330-851a-f16e40f4d93a)
 
 --------------
-#
+# @forward는 각각의 파셜들을 하나로 묶어줌 style.scss에서는 _index.scss 를 호출하여 사용함
+![image](https://github.com/hani10004/sass/assets/129706997/6cc143e2-846e-4632-91d1-2f59364b6db4)
+
 
 --------------
 #
